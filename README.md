@@ -1,1 +1,1 @@
-# techtrek-python
+# This repo have python codes in basic level
